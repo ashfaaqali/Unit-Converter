@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Unit Converter</string>
+    <string-array name="units">
+        <item>KG To Pound</item>
+        <item>Pound To KG</item>
+    </string-array>
 </resources>
